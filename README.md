@@ -9,3 +9,4 @@ En la siguiente tabla se muestran los usuarios que participaron de este proyecto
 | usuario | desarrollador | area |
 |-|-|-|
 | c215714n | Cristian Racedo | administrador |
+| NicoRClio | Nicolás Leyria | front-end |
